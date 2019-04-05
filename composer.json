@@ -1,0 +1,14 @@
+{
+    "name": "patrik.urik/to-roman-number-by-pu",
+    "description": "convert arabic number to roman number",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Urik",
+            "email": "patrik.urik@ringier.sk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
